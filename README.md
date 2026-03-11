@@ -3,7 +3,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 An advanced, all-in-one practice ecosystem for drummers. Developed as a high-retention utility for a **Gambling Affiliate Program**, this app combines complex functional tools with seamless user engagement strategies.
-
 ---
 
 ## 📖 Overview
