@@ -5,6 +5,11 @@
 An advanced, all-in-one practice ecosystem for drummers. Developed as a high-retention utility for a **Gambling Affiliate Program**, this app combines complex functional tools with seamless user engagement strategies.
 ---
 
+## 🚀 Status
+- **Google Play Store:** ✅ Verified & Published
+- **Current Version:** 1.0.0
+- **Build:** Flutter Stable Channel
+
 ## 📖 Overview
 **Drum Master Practice** is designed to be the ultimate companion for musicians. It moves beyond simple metronomes by offering a full suite of management tools: from a complete CRUD system for exercises to geolocation features for finding local music infrastructure.
 
@@ -15,10 +20,7 @@ An advanced, all-in-one practice ecosystem for drummers. Developed as a high-ret
 * **Music School Finder:** Integrated Map API to locate nearby drumming studios and music schools.
 * **Progress Insights:** Visualize your practice consistency and speed (BPM) growth over time.
 
-## 🚀 Status
-- **Google Play Store:** ✅ Verified & Published
-- **Current Version:** 1.0.0
-- **Build:** Flutter Stable Channel
+
 
 ## 📸 Screenshots
 <p align="center">
