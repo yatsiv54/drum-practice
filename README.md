@@ -24,7 +24,7 @@ An advanced, all-in-one practice ecosystem for drummers. Developed as a high-ret
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="screenshots/1.png" width="200" alt="Exercise Management">
-  <img src="screenshots/2.png" width="200" alt="Training Timer">
-  <img src="screenshots/3.png" width="200" alt="Nearby Schools">
+  <img src="screenshots/1.png" width="250" alt="Exercise Management">
+  <img src="screenshots/2.png" width="250" alt="Training Timer">
+  <img src="screenshots/3.png" width="250" alt="Nearby Schools">
 </p>
